@@ -2,11 +2,13 @@
 
 
 
-## Rezept1
+## Rezept 1
 
-###Zutaten und Zubereitung
+**==Zutaten und Zubereitung==**
 
-![Currywurst](./currywurst.png "Currywurst")
+> ![Currywurst](./currywurst.png "Currywurst")
+
+```
 - 1 Zwiebel
 - 2 EL Pflanzenöl
 - 2 TL Currypulver
@@ -17,6 +19,7 @@
 - 3 EL KNORR Tomaten Ketchup
 - Cayennepfeffer
 - 3 Bratwürste
+```
 
 
 1. Zwiebel schälen und fein hacken. Zwiebel in einem Topf in 1 EL Öl dünsten. Currypulver und Paprikapulver zufügen und anschwitzen lassen. Tomatenmark zufügen und untermischen.
@@ -25,24 +28,24 @@
 
 
 
-##Rezept2 
+## Rezept 2
 
-###Zutaten Zubereitung
+**==Zutaten Zubereitung==**
 
-![Geb.Reis](./Reis.png "Geb. Reis")
+> ![Geb.Reis](./Reis.png "Geb. Reis")
 
-1. Zutaten
-    750 g REWE Beste Wahl Wok-Mix 
+1. 
+   ` 750 g REWE Beste Wahl Wok-Mix` 
 Wokmischung aus der Tiefkühltruhe nehmen und kurz antauen lassen. 
-2. Zutaten
-    240 g Reis • Salz 
+2. 
+    `240 g Reis • Salz` 
 Reis nach Packungsanweisung in Salzwasser kochen. 
-3. Zutaten
-    20 g frischer Ingwer 
+3. 
+    `20 g frischer Ingwer` 
 Ingwer waschen, schälen und fein hacken.
-4. Zutaten
-    1 EL Öl 
+4. 
+    `1 EL Öl `
 Öl in einer Pfanne erhitzen und Ingwer kurz darin anbraten. Wokgemüse dazugeben und kurz anbraten.
-5. Zutaten
-    3 EL Erdnussbutter • 400 ml Kokosmilch 
+5. 
+    `3 EL Erdnussbutter • 400 ml Kokosmilch `
 Erdnussbutter mit dem Gemüse vermengen und mit Kokosmilch ablöschen. Kurz aufköcheln lassen und zum Reis servieren. 
