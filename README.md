@@ -4,7 +4,7 @@
 
 ## Rezept 1
 
-**==Zutaten und Zubereitung==**
+==**Zutaten und Zubereitung**==
 
 > ![Currywurst](./currywurst.png "Currywurst")
 
@@ -21,16 +21,18 @@
 - 3 Bratwürste
 ```
 
+| Schritt1 | Schritt2 | Schritt3 |
+|---|---|---|
+|1. Zwiebel schälen und fein hacken. Zwiebel in einem Topf in 1 EL Öl dünsten. Currypulver und Paprikapulver zufügen und anschwitzen lassen. Tomatenmark zufügen und untermischen.|2. 300 ml Wasser zugießen und Knorr Delikatess Brühe einstreuen. Zucker und Knorr Tomaten Ketchup zufügen und 15 Minuten bei mittlerer Hitze kochen. Sauce nach Belieben mit einem Stabmixer pürieren. Mit Cayennepfeffer abschmecken.|3. Bratwüste im restlichen heißen Öl rundherum braten. In Stücke schneiden und mit der Currysauce servieren. 
 
-1. Zwiebel schälen und fein hacken. Zwiebel in einem Topf in 1 EL Öl dünsten. Currypulver und Paprikapulver zufügen und anschwitzen lassen. Tomatenmark zufügen und untermischen.
-2. 300 ml Wasser zugießen und Knorr Delikatess Brühe einstreuen. Zucker und Knorr Tomaten Ketchup zufügen und 15 Minuten bei mittlerer Hitze kochen. Sauce nach Belieben mit einem Stabmixer pürieren. Mit Cayennepfeffer abschmecken.
-3. Bratwüste im restlichen heißen Öl rundherum braten. In Stücke schneiden und mit der Currysauce servieren. 
+
+
 
 
 
 ## Rezept 2
 
-**==Zutaten Zubereitung==**
+==**Zutaten Zubereitung**==
 
 > ![Geb.Reis](./Reis.png "Geb. Reis")
 
