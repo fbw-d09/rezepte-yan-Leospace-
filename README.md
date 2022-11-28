@@ -4,25 +4,32 @@
 
 ## Rezept1
 
- - 2 Möhren (≙ ca. 160 g)
- - 1 Apfel (≙ ca. 100 g)
- - 1 reife Banane (≙ ca. 120 g)
- - 300 ml Möhrensaft
- - 200 ml Orangensaft
- - 2 EL flüssiger Honig
- - 1 EL Olivenöl
+###Zutaten und Zubereitung
 
-##Anleitung
-
-1. Möhren schälen und klein schneiden.
-2. Apfel waschen, vierteln, entkernen und in kleine Würfel schneiden.
-3. Banane schälen und klein schneiden.
-4. Möhrenstücke, Apfelstücke, Bananenstücke, Möhrensaft, Honig und Öl in einen Mixer geben und cremig pürieren.
-5. Orangensaft untermischen. Ergibt 4 Gläser.
+![Currywurst](./currywurst.png "Currywurst")
+- 1 Zwiebel
+- 2 EL Pflanzenöl
+- 2 TL Currypulver
+- 1 TL Paprikapulver edelsüß
+- 2 EL Tomatenmark
+- 1 TL KNORR Delikatess Brühe (Dose)
+- 1 TL Zucker
+- 3 EL KNORR Tomaten Ketchup
+- Cayennepfeffer
+- 3 Bratwürste
 
 
-##Rezept2 und Zubereitung
+1. Zwiebel schälen und fein hacken. Zwiebel in einem Topf in 1 EL Öl dünsten. Currypulver und Paprikapulver zufügen und anschwitzen lassen. Tomatenmark zufügen und untermischen.
+2. 300 ml Wasser zugießen und Knorr Delikatess Brühe einstreuen. Zucker und Knorr Tomaten Ketchup zufügen und 15 Minuten bei mittlerer Hitze kochen. Sauce nach Belieben mit einem Stabmixer pürieren. Mit Cayennepfeffer abschmecken.
+3. Bratwüste im restlichen heißen Öl rundherum braten. In Stücke schneiden und mit der Currysauce servieren. 
 
+
+
+##Rezept2 
+
+###Zutaten Zubereitung
+
+![Geb.Reis](./Reis.png "Geb. Reis")
 
 1. Zutaten
     750 g REWE Beste Wahl Wok-Mix 
